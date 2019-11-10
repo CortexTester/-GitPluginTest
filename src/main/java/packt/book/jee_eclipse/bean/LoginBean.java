@@ -6,6 +6,7 @@ import javax.faces.bean.RequestScoped;
 @ManagedBean(name = "loginBean")
 @RequestScoped
 public class LoginBean {
+	// test
 	private String userName;
 	private String password;
 	private String errorMsg;
